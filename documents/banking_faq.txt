@@ -1,0 +1,31 @@
+
+DEMO BANKING POLICY
+For educational demonstration only.
+These are simulated rules, not real bank policies.
+
+HOME LOAN DOCUMENTS
+Applicants generally provide identity proof,
+address proof, income proof, recent bank statements,
+and relevant property documents. Additional
+documents may be required depending on the applicant.
+
+PERSONAL LOAN
+A personal loan is an unsecured loan used for
+personal expenses. Eligibility, interest rates,
+loan amounts, and repayment tenure depend on
+the bank's official terms and the applicant's profile.
+
+EQUATED MONTHLY INSTALLMENT (EMI)
+EMI is the fixed periodic payment made by a borrower
+to repay a loan. It generally includes principal
+and interest.
+
+MISSED EMI
+Missing an EMI may result in late payment charges,
+additional interest, or other consequences according
+to the applicable loan agreement and bank policy.
+
+DEBIT CARD BLOCKING
+Customers should use the bank's official app,
+website, or verified customer support channel to
+report a lost or stolen debit card and request blocking.
